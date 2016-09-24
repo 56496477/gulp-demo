@@ -1,0 +1,8 @@
+{
+	"app_name": "console",
+  	"locale":"zh",
+  	"version":"develop",
+	"port":4000,
+	"relativePath":"",
+	"mrelativePath":".."
+}
